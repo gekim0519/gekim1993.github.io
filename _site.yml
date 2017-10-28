@@ -1,4 +1,4 @@
-name: "Yay internet!"
+name: "website"
 output_dir: "."
 navbar:
   title: "Home"
@@ -6,8 +6,8 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<gekim1993@gmail.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/gekim1993/
 output:
   html_document
